@@ -1,8 +1,15 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: LambdaWorks Documentation
+description: Documentation for LambdaWorks Unreal Engine plugins.
+logo: "logo.png"
+favicon_ico: "favicon.ico"
+
+color_scheme: dark
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
+url: https://lambda-w.github.io/Documentation/
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "GitHub":
+    - "//github.com/Lambda-W/"
+    
+  "Fab":
+    - "//www.fab.com/sellers/Lambda%20Works"
