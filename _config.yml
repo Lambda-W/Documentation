@@ -6,7 +6,8 @@ favicon_ico: "favicon.ico"
 color_scheme: dark
 theme: just-the-docs
 
-url: https://lambda-w.github.io/Documentation/
+url: https://lambda-w.github.io/Documentation/docs/index
+
 aux_links:
   "GitHub":
     - "//github.com/Lambda-W/"

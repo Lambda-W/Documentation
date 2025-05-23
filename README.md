@@ -1,1 +1,1 @@
-Access the documentation here: https://lambda-w.github.io/docs/index
+Access the documentation here: https://lambda-w.github.io/Documentation/docs/index
