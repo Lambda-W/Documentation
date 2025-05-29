@@ -27,10 +27,10 @@ Supported Version
 </span>
 
 Fab Marketplace
-:  [https://www.fab.com/listings/d9ea4b3b-3a2f-4d37-aae9-364ca08d56c7](https://www.fab.com/listings/d9ea4b3b-3a2f-4d37-aae9-364ca08d56c7)
+:  [https://www.fab.com/listings/d9ea4b3b-3a2f-4d37-aae9-364ca08d56c7](https://www.fab.com/listings/d9ea4b3b-3a2f-4d37-aae9-364ca08d56c7){:target="_blank"}
 
 Discord
-: [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8)
+: [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}
 
 ***
 

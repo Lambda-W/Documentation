@@ -8,16 +8,11 @@ nav_order: "0"
 
 # Editor Browser
 {: .no_toc }
+<br>
 
 Lambda Web Browser allows you to browse the web from a tab in the editor. You can access it by clicking the Web Browser button in the toolbar or via the Window dropdown menu.
 
 ![](assets/lambdawebbrowser_docs_1.png)
-
-## Content
-{: .no_toc }
-
-1. TOC
-{:toc}
 
 * * *
 

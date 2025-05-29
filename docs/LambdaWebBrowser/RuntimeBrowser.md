@@ -8,17 +8,12 @@ nav_order: "1"
 
 # Runtime Browser
 {: .no_toc }
+<br>
 
 Lambda Web Browser comes with two browser widgets you can use in your games:
 
 - **LambdaWebBrowser:** A widget class you can add to existing widgets. It is just a browser with no interface. Similar to Epic’s WebBrowser widget with added functionality. Useful if you want to make your own browser UI.  
 - **LambdaWebBrowserWidget:** The same browser but with a scalable interface & favourites management. Useful if you want to get something going quickly!  
-
-## Content
-{: .no_toc }
-
-1. TOC
-{:toc}
 
 * * *
 

@@ -11,12 +11,40 @@
             "id": "234f49d815bd6919",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "bab66ff27b4ca799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/LandmarkNavigation/Entities/LandmarkNavigationSubsystem.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "LandmarkNavigationSubsystem"
+            }
+          },
+          {
+            "id": "5c729987c1264450",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "docs/FileSystemLibrary/assets/filesystemlibrary_screenshot_filedialog.png"
+                "file": "docs/LandmarkNavigation/assets/Common/LN_Minimap_Image2.png"
               },
               "icon": "lucide-image",
-              "title": "filesystemlibrary_screenshot_filedialog"
+              "title": "LN_Minimap_Image2"
             }
           },
           {
@@ -27,7 +55,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "README"
@@ -107,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/LandmarkNavigation/Entities/LandmarkAsset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for LandmarkAsset"
             }
           },
           {
@@ -126,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/LandmarkNavigation/Entities/LandmarkAsset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from LandmarkAsset"
             }
           },
           {
@@ -155,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "docs/LandmarkNavigation/Entities/LandmarkAsset.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of LandmarkAsset"
             }
           }
         ]
@@ -181,52 +209,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1632d736e3cfa5b1",
+  "active": "bab66ff27b4ca799",
   "lastOpenFiles": [
-    "docs/LandmarkNavigation/index.md",
-    "_site/logo.png",
-    "logo.png",
-    "_site/favicon.ico",
-    "_site/LambdaWorksLogo_Transparent_256.png",
-    "LambdaWorksLogo_Transparent_256.png",
-    "favicon.ico",
-    "docs/LambdaWebBrowser/index.md",
-    "docs/PythonBrowser/index.md",
-    "docs/index.md",
-    "docs/TimeClock/index.md",
-    "_site/docs/LambdaWebBrowser/assets/lambdawebbrowser_screenshot_scaling.png",
-    "docs/LambdaWebBrowser/assets/lambdawebbrowser_screenshot_scaling.png",
-    "_site/docs/LambdaWebBrowser/assets/lambdawebbrowser_screenshot_scalin.png",
-    "docs/LambdaWebBrowser/assets/lanmbdawebbrowser_screenshot_bp.png",
-    "docs/LambdaWebBrowser/assets/lambdawebbrowser_screenshot_editortool.png",
-    "docs/LambdaWebBrowser/assets/lambdawebbrowser_screenshot_editorbrowsing.png",
-    "README.md",
-    "_site/shots.psd",
-    "shots.psd",
-    "docs/FileSystemLibrary/index.md",
-    "docs/LambdaWebBrowser/EditorBrowser.md",
-    "docs/PythonBrowser/CustomArguments.md",
-    "docs/PythonBrowser/Overview.md",
-    "docs/PythonBrowser/Settings.md",
-    "_site/docs/PythonBrowser/CustomArguments.html",
-    "_site/docs/PythonBrowser/Settings.html",
-    "_site/docs/PythonBrowser/Overview 1.html",
-    "docs/PythonBrowser/Untitled.md",
-    "_site/docs/PythonBrowser/Untitled.md",
-    "_site/docs/PythonBrowser/arguments.html",
-    "_site/docs/PythonBrowser/Overview.html",
-    "_site/docs/PythonBrowser/index 1.html",
-    "docs/LambdaWebBrowser/RuntimeBrowser.md",
-    "_site/docs/LambdaWebBrowser/editorbrowser.md",
+    "docs/LandmarkNavigation/Entities/Waypoint.md",
+    "docs/LandmarkNavigation/Entities/Minimap.md",
+    "docs/LandmarkNavigation/Entities/LandmarkNavigationSubsystem.md",
+    "docs/LandmarkNavigation/Entities/LandmarkMapAsset.md",
+    "docs/LandmarkNavigation/Entities/LandmarkComponent.md",
+    "docs/LandmarkNavigation/Entities/LandmarkAsset.md",
+    "docs/LandmarkNavigation/Entities/Compass.md",
+    "docs/LandmarkNavigation/Entities/BigMap.md",
+    "docs/LandmarkNavigation/GettingStarted/3_CreatingMapAsset.md",
+    "docs/LandmarkNavigation/GettingStarted/2_WidgetSetup.md",
+    "docs/LandmarkNavigation/MapTool.md",
     "docs/LandmarkNavigation/Overview.md",
+    "docs/LandmarkNavigation/Settings.md",
+    "docs/LandmarkNavigation/assets/MapTool/LN_MapTool_Image.png",
+    "docs/LandmarkNavigation/assets/MapTool/LN_MapTool_Image2.png",
+    "docs/LandmarkNavigation/assets/MapTool/LN_MapTool_Image3.png",
+    "docs/LandmarkNavigation/assets/MapTool/LN_MapTool_Image4.png",
+    "docs/LandmarkNavigation/assets/Common/LN_Minimap_Image2.png",
+    "_site/docs/LandmarkNavigation/assets/MapTool/LN_MapTool_Image4.png",
+    "_site/docs/LandmarkNavigation/assets/MapTool/LN_MapTool_Image3.png",
+    "_site/LN_MapTool_Image4.png",
+    "_site/LN_MapTool_Image3.png",
+    "Pasted image 20250529021210.png",
+    "Entities/LandmarkComponents.md",
+    "MapTool.md",
+    "docs/LandmarkNavigation/FAQ & Troubleshooting.md",
+    "_site/docs/LandmarkNavigation/assets/MapTool",
+    "docs/LandmarkNavigation/assets/MapTool",
+    "docs/LandmarkNavigation/assets/Nouveau dossier",
+    "docs/LandmarkNavigation/index.md",
+    "docs/index.md",
+    "README.md",
+    "docs/LandmarkNavigation/Entities/index.md",
+    "_site/docs/LandmarkNavigation/Entities/BigMap.html",
+    "_site/docs/LandmarkNavigation/Entities/BigMap.md",
+    "_site/docs/LandmarkNavigation/Entities/Untitled.md",
+    "docs/LandmarkNavigation/GettingStarted/index.md",
+    "_site/docs/LandmarkNavigation/assets/FAQ",
+    "docs/LandmarkNavigation/assets/FAQ",
+    "_site/docs/LandmarkNavigation/FAQ & Troubleshooting.html",
+    "_site/docs/LandmarkNavigation/Untitled.html",
+    "docs/LandmarkNavigation/GettingStarted/1_CreatingLandmarks.md",
+    "_site/docs/LandmarkNavigation/Untitled.md",
     "_site/docs/LambdaWebBrowser/Untitled.md",
-    "docs/PythonBrowser/assets/index.md",
-    "index.md",
-    "_site/docs/index.md",
-    "_site/docs/Untitled.md",
-    "_site/index.md",
-    "_site/Untitled.md",
-    "docs/LandmarkNavigation/MapTool/index.md",
-    "docs/LandmarkNavigation/MapTool/Untitled.md"
+    "_site/docs/LandmarkNavigation/MapTool.html",
+    "_site/docs/LandmarkNavigation/index 1.html"
   ]
 }

@@ -30,13 +30,13 @@ Supported Version
 </span>
 
 Github
-: [https://github.com/Lambda-W/TimeClock](https://github.com/Lambda-W/TimeClock)
+: [https://github.com/Lambda-W/TimeClock](https://github.com/Lambda-W/TimeClock){:target="_blank"}
 
 Fab Marketplace
-:  [https://www.fab.com/listings/ae2e2112-46dd-43c4-93c8-81a690338571](https://www.fab.com/listings/ae2e2112-46dd-43c4-93c8-81a690338571)
+:  [https://www.fab.com/listings/ae2e2112-46dd-43c4-93c8-81a690338571](https://www.fab.com/listings/ae2e2112-46dd-43c4-93c8-81a690338571){:target="_blank"}
 
 Discord
-: [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8)
+: [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}
 
 ***
 
