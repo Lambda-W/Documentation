@@ -50,6 +50,15 @@ Create `ULandmarkAsset` for each different landmarks you wish to have in your ga
 | Hide on Minimap when Reached      | If true this object will be hidden on the compass when it is reached                                                            |
 | Enabled Landmark Rotation         | If true, the landmark icon on the minimap will rotate according to the landmark's world rotation                                |
 
+#### BigMap Settings
+
+| Property Name                     | Description                                                                                                                     |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Show On BigMap                    | If true this object can be displayed on the minimap                                                                             |                                                        |
+| Enabled Landmark Rotation         | If true, the landmark icon on the minimap will rotate according to the landmark's world rotation                                |
+
+
+
 
 
 

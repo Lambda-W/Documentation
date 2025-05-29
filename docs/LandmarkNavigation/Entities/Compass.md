@@ -36,5 +36,9 @@ See Content/Demo/Widget/WBP_LN_Demo_Hud, for an use example.
 | Compass Visible FOV           | The visible FOV in degrees of the compass (Warning: affects performance).                                                                                                                      |
 | Set Compass FOV to Camera FOV | If true, the compass will be set to the camera's FOV (calculated when the compass is spawned). This overrides any value set to CompassVisibleFOV.                                              |
 
+<br>
+#### Textures
 
+![](../assets/Common/LN_Compass_Image2.png)
 
+You can customise the look of the compass's cardinals by swapping these texture to custom ones.
