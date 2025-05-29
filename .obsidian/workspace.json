@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LandmarkNavigation/Settings.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Settings"
+              "title": "index"
             }
           },
           {
@@ -209,8 +209,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bab66ff27b4ca799",
+  "active": "876178b24bf94034",
   "lastOpenFiles": [
+    "_site/index.html",
+    "logo.png",
+    "_site/docs/index.html",
+    "index.md",
+    "index.md",
+    "_site/index.md",
+    "MapTool.md",
+    "_site/Untitled.md",
+    "_site/docs/Untitled.md",
+    "docs/LandmarkNavigation/Settings.md",
     "docs/LandmarkNavigation/FAQ & Troubleshooting.md",
     "docs/LandmarkNavigation/Entities/LandmarkNavigationSubsystem.md",
     "docs/LandmarkNavigation/Entities/Waypoint.md",
@@ -224,7 +234,6 @@
     "docs/LandmarkNavigation/GettingStarted/2_WidgetSetup.md",
     "docs/LandmarkNavigation/MapTool.md",
     "docs/LandmarkNavigation/Overview.md",
-    "docs/LandmarkNavigation/Settings.md",
     "docs/LandmarkNavigation/assets/MapTool/LN_MapTool_Image.png",
     "docs/LandmarkNavigation/assets/MapTool/LN_MapTool_Image2.png",
     "docs/LandmarkNavigation/assets/MapTool/LN_MapTool_Image3.png",
@@ -234,28 +243,19 @@
     "_site/docs/LandmarkNavigation/assets/MapTool/LN_MapTool_Image3.png",
     "_site/LN_MapTool_Image4.png",
     "_site/LN_MapTool_Image3.png",
-    "Pasted image 20250529021210.png",
     "Entities/LandmarkComponents.md",
-    "MapTool.md",
     "_site/docs/LandmarkNavigation/assets/MapTool",
     "docs/LandmarkNavigation/assets/MapTool",
     "docs/LandmarkNavigation/assets/Nouveau dossier",
     "docs/LandmarkNavigation/index.md",
-    "docs/index.md",
     "README.md",
     "docs/LandmarkNavigation/Entities/index.md",
     "_site/docs/LandmarkNavigation/Entities/BigMap.html",
     "_site/docs/LandmarkNavigation/Entities/BigMap.md",
-    "_site/docs/LandmarkNavigation/Entities/Untitled.md",
-    "docs/LandmarkNavigation/GettingStarted/index.md",
     "_site/docs/LandmarkNavigation/assets/FAQ",
     "docs/LandmarkNavigation/assets/FAQ",
     "_site/docs/LandmarkNavigation/FAQ & Troubleshooting.html",
     "_site/docs/LandmarkNavigation/Untitled.html",
-    "docs/LandmarkNavigation/GettingStarted/1_CreatingLandmarks.md",
-    "_site/docs/LandmarkNavigation/Untitled.md",
-    "_site/docs/LambdaWebBrowser/Untitled.md",
-    "_site/docs/LandmarkNavigation/MapTool.html",
-    "_site/docs/LandmarkNavigation/index 1.html"
+    "_site/docs/LandmarkNavigation/MapTool.html"
   ]
 }
