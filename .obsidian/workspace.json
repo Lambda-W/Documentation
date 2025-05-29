@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LandmarkNavigation/Entities/LandmarkNavigationSubsystem.md",
+                "file": "docs/LandmarkNavigation/Settings.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "LandmarkNavigationSubsystem"
+              "title": "Settings"
             }
           },
           {
@@ -211,9 +211,10 @@
   },
   "active": "bab66ff27b4ca799",
   "lastOpenFiles": [
+    "docs/LandmarkNavigation/FAQ & Troubleshooting.md",
+    "docs/LandmarkNavigation/Entities/LandmarkNavigationSubsystem.md",
     "docs/LandmarkNavigation/Entities/Waypoint.md",
     "docs/LandmarkNavigation/Entities/Minimap.md",
-    "docs/LandmarkNavigation/Entities/LandmarkNavigationSubsystem.md",
     "docs/LandmarkNavigation/Entities/LandmarkMapAsset.md",
     "docs/LandmarkNavigation/Entities/LandmarkComponent.md",
     "docs/LandmarkNavigation/Entities/LandmarkAsset.md",
@@ -236,7 +237,6 @@
     "Pasted image 20250529021210.png",
     "Entities/LandmarkComponents.md",
     "MapTool.md",
-    "docs/LandmarkNavigation/FAQ & Troubleshooting.md",
     "_site/docs/LandmarkNavigation/assets/MapTool",
     "docs/LandmarkNavigation/assets/MapTool",
     "docs/LandmarkNavigation/assets/Nouveau dossier",
