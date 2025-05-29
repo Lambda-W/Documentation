@@ -38,6 +38,9 @@ Fab Marketplace
 Discord
 : [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}
 
+Unreal Forums
+: [https://forums.unrealengine.com/t/lambda-works-time-clock/2525302](https://forums.unrealengine.com/t/lambda-works-time-clock/2525302){:target="_blank"}
+
 ***
 
 ![](assets/timeclock_screenshot_editortool.avif)

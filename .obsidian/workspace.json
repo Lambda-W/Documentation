@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "docs/LambdaWebBrowser/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,13 +209,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "876178b24bf94034",
+  "active": "bab66ff27b4ca799",
   "lastOpenFiles": [
+    "docs/FileSystemLibrary/index.md",
+    "docs/TimeClock/index.md",
+    "docs/PythonBrowser/index.md",
+    "index.md",
     "_site/index.html",
     "logo.png",
     "_site/docs/index.html",
-    "index.md",
-    "index.md",
     "_site/index.md",
     "MapTool.md",
     "_site/Untitled.md",
@@ -251,11 +253,9 @@
     "README.md",
     "docs/LandmarkNavigation/Entities/index.md",
     "_site/docs/LandmarkNavigation/Entities/BigMap.html",
-    "_site/docs/LandmarkNavigation/Entities/BigMap.md",
     "_site/docs/LandmarkNavigation/assets/FAQ",
     "docs/LandmarkNavigation/assets/FAQ",
     "_site/docs/LandmarkNavigation/FAQ & Troubleshooting.html",
-    "_site/docs/LandmarkNavigation/Untitled.html",
-    "_site/docs/LandmarkNavigation/MapTool.html"
+    "_site/docs/LandmarkNavigation/Untitled.html"
   ]
 }

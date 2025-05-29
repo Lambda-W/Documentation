@@ -38,6 +38,9 @@ Github
 Discord
 : [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}
 
+Unreal Forums
+: [https://forums.unrealengine.com/t/lambda-works-lambda-web-browser/2525256](https://forums.unrealengine.com/t/lambda-works-lambda-web-browser/2525256){:target="_blank"}
+
 ***
 
 ![](assets/lambdawebbrowser_screenshot_editortool.png)

@@ -32,6 +32,9 @@ Fab Marketplace
 Discord
 : [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}
 
+Unreal Forums
+: [https://forums.unrealengine.com/t/lambda-works-python-browser/2525303](https://forums.unrealengine.com/t/lambda-works-python-browser/2525303){:target="_blank"}
+
 ***
 
 ![](PythonBrowser_Screenshots_0%201.png)
