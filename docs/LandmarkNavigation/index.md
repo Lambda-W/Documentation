@@ -24,17 +24,20 @@ Supported Version
 [5.3](){: .btn .btn-green}
 [5.4](){: .btn .btn-green}
 [5.5](){: .btn .btn-green}
-[5.6](){: .btn .btn-red}
+[5.6](){: .btn .btn-green}
 </span>
 
+Showcase video
+: https://www.youtube.com/watch?v=-7-J9FiN0kY
+
 Fab Marketplace
-:  [https://www.fab.com/listings/712b1c82-4632-408a-ab61-e94f84578ab5](https://www.fab.com/listings/712b1c82-4632-408a-ab61-e94f84578ab5)
+: https://www.fab.com/listings/e19bcb7f-995f-4fa0-bea6-290a39cdd373
 
 Discord
 : [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}
 
 Unreal Forums
-: 
+: https://forums.unrealengine.com/t/lambda-works-landmark-navigation/2542562
 
 ***
 
