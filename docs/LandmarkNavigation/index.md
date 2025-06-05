@@ -28,16 +28,16 @@ Supported Version
 </span>
 
 Showcase video
-: https://www.youtube.com/watch?v=-7-J9FiN0kY
+: [https://www.youtube.com/watch?v=-7-J9FiN0kY](https://www.youtube.com/watch?v=-7-J9FiN0kY){:target="_blank"}
 
 Fab Marketplace
-: https://www.fab.com/listings/e19bcb7f-995f-4fa0-bea6-290a39cdd373
+: [https://www.fab.com/listings/e19bcb7f-995f-4fa0-bea6-290a39cdd373](https://www.fab.com/listings/e19bcb7f-995f-4fa0-bea6-290a39cdd373){:target="_blank"}
 
 Discord
 : [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}
 
 Unreal Forums
-: https://forums.unrealengine.com/t/lambda-works-landmark-navigation/2542562
+: [https://forums.unrealengine.com/t/lambda-works-landmark-navigation/2542562](https://forums.unrealengine.com/t/lambda-works-landmark-navigation/2542562){:target="_blank"}
 
 ***
 
