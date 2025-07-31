@@ -19,6 +19,10 @@ Some additional minimap settings are landmark specific, see [LandmarkAsset](Land
 * Use the provided slots to customise the compass' visual appearance.
 * Tweak its settings to customise the minimap's behaviour.
 
+<br>
+
+See  [LandmarkNavigationSubsystem](LandmarkNavigationSubsystem) for all related functions.
+
 See Content/Demo/Widget/WBP_LN_Demo_Hud, for an use example.
 
 

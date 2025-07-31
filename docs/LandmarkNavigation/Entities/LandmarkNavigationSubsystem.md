@@ -30,6 +30,7 @@ Some of its settings are exposed in the plugin's [settings](../Settings){:target
 | Name                | Description                                                                                                                                                                  |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | SetActiveWaypoint   | Set a [ULandmarkComponent](LandmarkComponent){:target="blank"} as active waypoint, meaning it should be displayed on the waypoint widget. There can only be one active map asset at any time. |
+| ClearActiveWaypoint | Clears the active waypoint if any.                                                                                                                                           |
 | GetActiveWaypoint   | Returns the currently Active Waypoint (LandmarkComponent) or nullptr if none.                                                                                                |
 | OnNewActiveWaypoint | Triggers whenever a new ULandmarkComponent is set as waypoint.                                                                                                               |
 
@@ -40,6 +41,7 @@ Some of its settings are exposed in the plugin's [settings](../Settings){:target
 | Name                  | Description                                                                                                                                               |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | SetActiveMapAsset     | Set a [ULandmarkMapAsset](LandmarkMapAsset){:target="blank"} as active, meaning it should be displayed on the minimap. There can only be one active map asset at any time. |
+| ClearActiveMapAsset   | Clears the active map asset if any.                                                                                               |
 | GetActiveMapAsset     | Returns the currently Active Map Asset or nullptr if none.                                                                                                |
 | OnNewLandmarkMapAsset | Triggers whenever a new ULandmarkMapAsset is set as active.                                                                                               |
 

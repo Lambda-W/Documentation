@@ -36,9 +36,6 @@ Supported Version
 Fab Marketplace
 :  [https://www.fab.com/listings/ec8e92ff-074b-4246-8fd1-e7f2c8510d76](https://www.fab.com/listings/ec8e92ff-074b-4246-8fd1-e7f2c8510d76){:target="_blank"}
 
-Github
-: [https://github.com/Lambda-W/FileSystemLibrary](https://github.com/Lambda-W/FileSystemLibrary){:target="_blank"}
-
 Discord
 : [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}
 

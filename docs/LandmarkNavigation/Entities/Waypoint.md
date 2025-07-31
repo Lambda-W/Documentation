@@ -16,6 +16,10 @@ The Waypoint widget (`WBP_LN_Waypoint`) is a UserWidget that displays landmarks 
 * Add a WBP_LN_Waypoint to your widget.
 * Tweak its settings to customise the waypoint's behaviour.
 
+<br>
+
+See  [LandmarkNavigationSubsystem](LandmarkNavigationSubsystem) for all related functions.
+
 See Content/Demo/Widget/WBP_LN_Demo_Hud, for an use example.
 
 
