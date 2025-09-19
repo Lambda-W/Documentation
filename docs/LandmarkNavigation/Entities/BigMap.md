@@ -28,15 +28,18 @@ See Content/Demo/Widget/WBP_LN_Demo_BigMap, for an use example.
 ### Properties
 ![](../assets/Common/LN_BigMap_Image.png)
 
-| Property Name         | Description                                                                                                                                                                                    |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Landmark Map Asset    | The LandmarkMapAsset to display. (is ignored if bUseActiveMap is set to true).                                                                                                                 |
-| bUseActiveMap         | If true, the big map will use which ever map asset was set as Active Map.                                                                                                                      |
-| Widget Refresh Rate   | How often per seconds should we update the landmarks' position on the minimap. The more visible landmarks are the more expensive it gets to update all of them (Warning: affects performance). |
-| Map Size              | The size of the minimap in pixels (default is 512).                                                                                                                                            |
-| LandmarkIconScale     | The scale factor for landmark icons (default is 1.0)                                                                                                                                           |
-| PlayerIconScale       | The scale factor for the player icon (default is 1.0)                                                                                                                                          |
-| PlayerDirectionSource | If MapDirectionSource is set to North, choose the direction the player indicator should follow.                                                                                                |
+| Property Name              | Description                                                                                                                                                                                    |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Landmark Map Asset         | The LandmarkMapAsset to display. (is ignored if bUseActiveMap is set to true).                                                                                                                 |
+| bUseActiveMap              | If true, the big map will use which ever map asset was set as Active Map.                                                                                                                      |
+| Widget Refresh Rate        | How often per seconds should we update the landmarks' position on the minimap. The more visible landmarks are the more expensive it gets to update all of them (Warning: affects performance). |
+| Map Size                   | The size of the minimap in pixels (default is 512).                                                                                                                                            |
+| LandmarkIconScale          | The scale factor for landmark icons (default is 1.0)                                                                                                                                           |
+| PlayerIconScale            | The scale factor for the player icon (default is 1.0)                                                                                                                                          |
+| PlayerDirectionSource      | If MapDirectionSource is set to North, choose the direction the player indicator should follow.                                                                                                |
+| AllowLandmarkTooltip       | If true, hovering a landmark with the mouse will display a tooltip widget displaying informaiton about the landmark.                                                                           |
+| AllowPinLocation           | If true, allow the user the pin a location on the map (default input is Middle Click).                                                                                                         |
+| OnlyAllowOnePinnedLocation | If true, only allow one pinned location to be active at all time. (Requires AllowPinLocation to be true).                                                                                      |
 
 
 
