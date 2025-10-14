@@ -29,6 +29,6 @@ nav_order: "10"
 ## Version 4 - 14/10/2025
 
 * Middle clicking on an existing landmark in the big map will now set it as waypoint rather than spawning a new pin point
-* Added a FSlateIcon member to LandmarkAsset which allows for more customisation (including the use of UI materials) that the Icon UTexture2D member. This has to be enabled with the boolean tick box 'bUseSlateIcon'. 
+* Added a FSlateIcon member to LandmarkAsset which allows for more customisation (including the use of UI materials) than the Icon UTexture2D member. This has to be enabled with the boolean tick box 'bUseSlateIcon'. 
 * DA_LN_DemoLandmark_Distant now uses a material as use example for this new SlateIcon member. (see Demo)
 * DA_LN_DemoLandmark_Dual now uses a texture with tint as use example for this new SlateIcon member. (see Demo)
