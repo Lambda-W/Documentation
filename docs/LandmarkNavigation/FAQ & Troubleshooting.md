@@ -25,5 +25,11 @@ nav_order: "11"
 
 <br>
 ### Is it optimised for performance?
-> Each system in the plugin has some performance related settings should it become a concern (draw distance, widget frame rate, tick update time etc...). Although there is no limits to how many landmarks it can handle, the most costly part is the widget rendering. It started to be costly when rendering over 100 landmarks, which is probably way too much anyway. Here's how it looked:
+> Each system in the plugin has some performance related settings should it become a concern (draw distance, widget frame rate, tick update time etc...). 
+> 
+> Although there is no limits to how many landmarks it can handle, the most costly part is the widget rendering. During our test, it started to be costly when rendering over 100 very close landmarks, which is probably way too much anyway. 
+> Here's how it looked:
 > ![](assets/FAQ/FAQ_Compass100.png)
+> 
+> The plugin can otherwise handle well over 500 landmarks in one level even on mobile (Tested at 120fps on our LVL_LN_Benchmark on a OnePlus Nord CE 5G).  
+

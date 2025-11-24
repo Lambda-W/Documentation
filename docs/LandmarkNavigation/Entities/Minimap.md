@@ -14,6 +14,10 @@ The Minimap widget (`WBP_LN_Minimap`) is a UserWidget that displays landmarks in
 Some additional minimap settings are landmark specific, see [LandmarkAsset](LandmarkAsset){:target="blank"}.
 
 <br>
+
+![](../assets/Common/LN_Minimap_Image3.png)
+
+<br>
 #### Usage:  
 * Add a WBP_LN_Minimap to your widget.
 * Use the provided slots to customise the compass' visual appearance.

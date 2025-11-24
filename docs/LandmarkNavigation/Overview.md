@@ -16,7 +16,8 @@ Landmark Navigation is an Unreal Engine plugin that aims at bringing you a very 
 #### Features
 * **Minimap:** A customisable widget to render landmarks on a circular or square minimap.
 * **Compass:** A customisable widget that renders landmarks on an horizontal axis.
-* **Waypoint:** A pre-build widget that renders landmarks on-screen in 2D space.
+* **Waypoint:** A pre-built widget that renders a single landmarks on-screen in 2D space.
+* **Waypoint Map:** A pre-built widget that renders the direction and distance towards a single landmark.
 * **BigMap:** A pre-built widget that renders the entire map and all its landmarks.
 * **MapTool:** An editor tool to help you create map textures that are ready to use with the minimap.
 * **LandmarkNavigationSubsystem:** The brains of it all, handles all landmarks in the level and optimises them based on their distance to the player.

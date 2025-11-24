@@ -17,6 +17,10 @@ The BigMap widget (`WBP_LN_BigMap`) is a UserWidget that displays landmarks in a
 Some additional BigMap settings are landmark specific, see [LandmarkAsset](LandmarkAsset){:target="blank"}.
 
 <br>
+
+![](../assets/Common/LN_BigMap_Image3.png)
+
+<br>
 #### Usage:  
 * Add a WBP_LN_BigMap to your widget.
 * Use the provided slots to customise the compass' visual appearance.

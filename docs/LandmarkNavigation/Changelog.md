@@ -9,16 +9,20 @@ nav_order: "10"
 <br>
 
 <br>
+## Version 5 - 20/11/2025
 
-## Version 1 - 06/06/2025
+* The Waypoint widget will now show an arrow indicating whether the waypoint is above or below the player. Can be toggled off with `bShowHeightArrow` in `WBP_LN_Waypoint`.
+* **New feature:** Added [WaypointMap](Entities/WaypointMap){:target="blank"}  (WBP_LN_WaypointMap) which is a HUD widget to display the direction towards the currently active Waypoint. 
+* **Experimental feature - Map Asset Angle Offset:** Allows [LandmarkMapAssets](Entities/LandmarkMapAsset){:target="blank"} to be created with an angle offset. Useful if you wish to offset the map texture without changing the North Direction. Note that this feature needs to be explicitly enabled in *Project Settings -> Landmark Navigation -> EnableMapAssetAngleOffset*. 
+* Fixed issue where BigMap landmark wouldn't scale properly when `LandmarkIconScale` was set to a value other than 1.0.  
+* Fixed error "*GetNorthDirection: LandmarkNavigationSubsystem is NULL*" when opening a MapAsset with the MapTool.
 
-* Initial Release
+## Version 4 - 14/10/2025
 
-## Version 2 - 01/08/2025
-
-* Added `ClearActiveWaypoint()` function to clear the active waypoint.
-* Added `ClearMapAsset()` function to clear the current map asset.
-* Fixed issue where unregistering the active waypoint would not properly dispose of the on screen waypoint.
+* Middle clicking on an existing landmark in the big map will now set it as waypoint rather than spawning a new pin point
+* **New feature:** Landmarks icons can now be more easily customised (Tint picker, UI Material slot) thanks to the added `FSlateIcon` member in LandmarkAsset which. This has to be enabled with the boolean tick box `bUseSlateIcon`. 
+* `DA_LN_DemoLandmark_Distant` now uses a material as use example for this new SlateIcon member. (see Demo)
+* `DA_LN_DemoLandmark_Dual` now uses a texture with tint as use example for this new SlateIcon member. (see Demo)
 
 ## Version 3 - 19/09/2025
 
@@ -26,9 +30,12 @@ nav_order: "10"
 * **New feature:** Hovering a landmark in the BigMap will now display a tooltip showing the landmark's name, description and distance to player. Setting available to disable it. 
 * Fixed issue causing a division by 0 when zooming in to the max in the minimap.
 
-## Version 4 - 14/10/2025
+## Version 2 - 01/08/2025
 
-* Middle clicking on an existing landmark in the big map will now set it as waypoint rather than spawning a new pin point
-* Added a FSlateIcon member to LandmarkAsset which allows for more customisation (including the use of UI materials) than the Icon UTexture2D member. This has to be enabled with the boolean tick box 'bUseSlateIcon'. 
-* DA_LN_DemoLandmark_Distant now uses a material as use example for this new SlateIcon member. (see Demo)
-* DA_LN_DemoLandmark_Dual now uses a texture with tint as use example for this new SlateIcon member. (see Demo)
+* Added `ClearActiveWaypoint()` function to clear the active waypoint.
+* Added `ClearMapAsset()` function to clear the current map asset.
+* Fixed issue where unregistering the active waypoint would not properly dispose of the on screen waypoint.
+
+## Version 1 - 06/06/2025
+
+* Initial Release

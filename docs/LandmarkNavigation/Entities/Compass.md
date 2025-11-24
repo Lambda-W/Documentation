@@ -6,12 +6,15 @@ nav_enabled: true
 nav_order: "5"
 ---
 # Compass (Widget)
-
 ![](../assets/Common/LN_Compass_Icon.png)
 
 The Compass widget (`WBP_LN_Compass`) is a UserWidget designed to display cardinals point (North, East, South, West) and landmarks. Cardinals are calculated based on the 'North direction' setting (found in the plugin's [Settings](../Settings){:target="blank"}). 
 
 Some additional compass settings are landmark specific, see [LandmarkAsset](LandmarkAsset){:target="blank"}.
+
+<br>
+
+![](../assets/Common/LN_Compass_Image3.png)
 
 <br>
 #### Usage:  
