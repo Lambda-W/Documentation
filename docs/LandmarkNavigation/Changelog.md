@@ -16,6 +16,7 @@ nav_order: "10"
 * **Experimental feature - Map Asset Angle Offset:** Allows [LandmarkMapAssets](Entities/LandmarkMapAsset){:target="blank"} to be created with an angle offset. Useful if you wish to offset the map texture without changing the North Direction. Note that this feature needs to be explicitly enabled in *Project Settings -> Landmark Navigation -> EnableMapAssetAngleOffset*. 
 * Fixed issue where BigMap landmark wouldn't scale properly when `LandmarkIconScale` was set to a value other than 1.0.  
 * Fixed error "*GetNorthDirection: LandmarkNavigationSubsystem is NULL*" when opening a MapAsset with the MapTool.
+* Added support for Unreal Engine 5.7
 
 ## Version 4 - 14/10/2025
 

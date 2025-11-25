@@ -25,6 +25,7 @@ Supported Version
 [5.4](){: .btn .btn-green}
 [5.5](){: .btn .btn-green}
 [5.6](){: .btn .btn-green}
+[5.7](){: .btn .btn-green}
 </span>
 
 Showcase video
