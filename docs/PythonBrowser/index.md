@@ -2,7 +2,7 @@
 title: Python Browser
 layout: home
 nav_enabled: true
-nav_order: "9"
+nav_order: "8"
 ---
 # Python Browser
 <br>
@@ -24,6 +24,7 @@ Supported Version
 [5.4](){: .btn .btn-green}
 [5.5](){: .btn .btn-green}
 [5.6](){: .btn .btn-green}
+[5.7](){: .btn .btn-red}
 </span>
 
 Fab Marketplace
