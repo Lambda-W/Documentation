@@ -32,9 +32,6 @@ Fab Marketplace
 Discord
 : [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}
 
-Unreal Forums
-: [](){:target="_blank"}
-
 ***
 
 ![](assets/AB_Screenshots_1.png)
