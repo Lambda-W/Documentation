@@ -27,13 +27,13 @@ Supported Version
 </span>
 
 Fab Marketplace
-:  [](https://www.fab.com/listings/ec8e92ff-074b-4246-8fd1-e7f2c8510d76){:target="_blank"}
+:  [](https://www.fab.com/listings/3dc4fc8b-5f5d-4d26-9d0b-1a40441c2220){:target="_blank"}
 
 Discord
 : [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}
 
 Unreal Forums
-: [](https://forums.unrealengine.com/t/lambda-works-file-system-library/2525257){:target="_blank"}
+: [](){:target="_blank"}
 
 ***
 
