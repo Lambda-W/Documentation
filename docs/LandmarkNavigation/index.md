@@ -37,9 +37,6 @@ Fab Marketplace
 Discord
 : [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}
 
-Unreal Forums
-: [https://forums.unrealengine.com/t/lambda-works-landmark-navigation/2542562](https://forums.unrealengine.com/t/lambda-works-landmark-navigation/2542562){:target="_blank"}
-
 ***
 
 ![](assets/Screenshots/LN_Screenshot_1.png)

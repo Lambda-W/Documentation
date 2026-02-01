@@ -3,6 +3,7 @@ title: Asset Bookmarks
 layout: home
 nav_enabled: true
 nav_order: "5"
+has_toc: false
 ---
 # Asset Bookmarks
 <br>
@@ -27,7 +28,7 @@ Supported Version
 </span>
 
 Fab Marketplace
-:  [](https://www.fab.com/listings/3dc4fc8b-5f5d-4d26-9d0b-1a40441c2220){:target="_blank"}
+:  [https://www.fab.com/listings/d22dc02d-5593-4acc-814e-646f51a1ce3e](https://www.fab.com/listings/d22dc02d-5593-4acc-814e-646f51a1ce3e){:target="_blank"}
 
 Discord
 : [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}

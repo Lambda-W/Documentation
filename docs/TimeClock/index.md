@@ -3,6 +3,7 @@ title: Time Clock
 layout: home
 nav_enabled: true
 nav_order: "15"
+has_toc: false
 ---
 # Time Clock
 <br>
@@ -38,9 +39,6 @@ Github
 
 Discord
 : [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}
-
-Unreal Forums
-: [https://forums.unrealengine.com/t/lambda-works-time-clock/2525302](https://forums.unrealengine.com/t/lambda-works-time-clock/2525302){:target="_blank"}
 
 ***
 

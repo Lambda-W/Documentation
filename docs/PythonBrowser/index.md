@@ -2,7 +2,8 @@
 title: Python Browser
 layout: home
 nav_enabled: true
-nav_order: "8"
+nav_order: "7"
+has_toc: false
 ---
 # Python Browser
 <br>
@@ -33,13 +34,10 @@ Fab Marketplace
 Discord
 : [https://discord.com/invite/bxgtNY8](https://discord.com/invite/bxgtNY8){:target="_blank"}
 
-Unreal Forums
-: [https://forums.unrealengine.com/t/lambda-works-python-browser/2525303](https://forums.unrealengine.com/t/lambda-works-python-browser/2525303){:target="_blank"}
-
 ***
 
-![](PythonBrowser_Screenshots_0%201.png)
+![](assets/PythonBrowser_Screenshots_0%201.png)
 
-![](PythonBrowser_Screenshots_1%201.png)
+![](assets/PythonBrowser_Screenshots_1%201.png)
 
-![](docs/PythonBrowser/assets/PythonBrowser_Screenshots_2.png)
+![](assets/PythonBrowser_Screenshots_2.png)
