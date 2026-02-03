@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LambdaWebBrowser/index.md",
+                "file": "docs/PythonBrowser/Changelog.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Changelog"
             }
           }
         ]
@@ -171,25 +171,32 @@
   },
   "active": "e3a611a1409dfa15",
   "lastOpenFiles": [
+    "docs/PythonBrowser/CustomArguments.md",
+    "docs/LandmarkNavigation/Changelog.md",
+    "docs/PythonBrowser/Changelog.md",
+    "_site/docs/PythonBrowser/Changelog.html",
+    "docs/AssetBookmarks/Changelog.md",
+    "_site/docs/PythonBrowser/Changelog.md",
+    "_site/docs/PythonBrowser/Untitled.md",
+    "docs/PythonBrowser/Overview.md",
+    "docs/AssetBookmarks/Overview.md",
+    "docs/AssetBookmarks/index.md",
+    "docs/PythonBrowser/Settings.md",
+    "docs/PythonBrowser/index.md",
+    "docs/LambdaWebBrowser/index.md",
     "docs/FileSystemLibrary/index.md",
     "docs/TimeClock/index.md",
-    "docs/PythonBrowser/index.md",
     "docs/LandmarkNavigation/index.md",
     "docs/AssetBookmarks/Settings.md",
     "docs/FileSystemLibrary/assets/filesystemlibrary_screenshot_bpexample.png",
     "docs/LambdaWebBrowser/assets/lanmbdawebbrowser_screenshot_bp.png",
-    "docs/LambdaWebBrowser/index.md",
     "docs/LambdaWebBrowser/EditorBrowser.md",
-    "docs/AssetBookmarks/index.md",
     "docs/LandmarkNavigation/assets/LandmarkNavigation_Banner.png",
     "docs/LandmarkNavigation/assets/LandmarkNavigation_BannerPromo_Blue.png",
-    "docs/AssetBookmarks/Overview.md",
     "_site/docs/AssetBookmarks/FAQ & Troubleshooting.html",
     "_site/docs/AssetBookmarks/Changelog.html",
     "docs/AssetBookmarks/FAQ & Troubleshooting.md",
-    "docs/AssetBookmarks/Changelog.md",
     "docs/LandmarkNavigation/FAQ & Troubleshooting.md",
-    "docs/LandmarkNavigation/Changelog.md",
     "docs/FileSystemLibrary/Functions.md",
     "_site/docs/AssetBookmarks/assets/AssetBookmarks_Logo_128x.png",
     "docs/AssetBookmarks/assets/AssetBookmarks_Logo_128x.png",
@@ -204,17 +211,11 @@
     "docs/LandmarkNavigation/Overview.md",
     "docs/LandmarkNavigation/Settings.md",
     "_site/docs/AssetBookmarks/Overview.html",
-    "docs/PythonBrowser/Overview.md",
     "_site/docs/AssetBookmarks/Settings.html",
-    "docs/PythonBrowser/Settings.md",
     "_site/docs/AssetBookmarks/Settings.md",
     "_site/docs/AssetBookmarks/Untitled.md",
     "_site/docs/AssetBookmarks/Overview.md",
     "_site/docs/AssetBookmarks/index.html",
-    "_site/docs/AssetBookmarks",
-    "docs/LandmarkNavigation/Entities/index.md",
-    "docs/LandmarkNavigation/Entities/WaypointMap.md",
-    "docs/LandmarkNavigation/Entities/Waypoint.md",
-    "docs/LandmarkNavigation/Entities/LandmarkMapAsset.md"
+    "docs/LandmarkNavigation/Entities/index.md"
   ]
 }
