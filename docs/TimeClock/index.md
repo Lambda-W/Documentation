@@ -28,7 +28,7 @@ Supported Version
 [5.4](){: .btn .btn-green}
 [5.5](){: .btn .btn-green}
 [5.6](){: .btn .btn-green}
-[5.7](){: .btn .btn-red}
+[5.7](){: .btn .btn-green}
 </span>
 
 Fab Marketplace
@@ -45,8 +45,6 @@ Discord
 ![](assets/timeclock_screenshot_editortool.avif)
 
 ![](assets/timeclock_screenshot_alarms.avif)
-
-![](assets/timeclock_screnshot_api.jpg)
 
 
 

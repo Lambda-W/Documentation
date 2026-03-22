@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/PythonBrowser/Changelog.md",
+                "file": "docs/TimeClock/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Changelog"
+              "title": "index"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -160,20 +160,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
   "active": "e3a611a1409dfa15",
   "lastOpenFiles": [
+    "docs/TimeClock/Changelog.md",
+    "_site/docs/TimeClock/Changelog.html",
+    "_site/docs/TimeClock/Sans titre.html",
+    "docs/PythonBrowser/Changelog.md",
+    "_site/docs/TimeClock/Sans titre.md",
+    "docs/TimeClock/index.md",
     "docs/PythonBrowser/CustomArguments.md",
     "docs/LandmarkNavigation/Changelog.md",
-    "docs/PythonBrowser/Changelog.md",
     "_site/docs/PythonBrowser/Changelog.html",
     "docs/AssetBookmarks/Changelog.md",
     "_site/docs/PythonBrowser/Changelog.md",
@@ -185,7 +190,6 @@
     "docs/PythonBrowser/index.md",
     "docs/LambdaWebBrowser/index.md",
     "docs/FileSystemLibrary/index.md",
-    "docs/TimeClock/index.md",
     "docs/LandmarkNavigation/index.md",
     "docs/AssetBookmarks/Settings.md",
     "docs/FileSystemLibrary/assets/filesystemlibrary_screenshot_bpexample.png",
@@ -211,11 +215,6 @@
     "docs/LandmarkNavigation/Overview.md",
     "docs/LandmarkNavigation/Settings.md",
     "_site/docs/AssetBookmarks/Overview.html",
-    "_site/docs/AssetBookmarks/Settings.html",
-    "_site/docs/AssetBookmarks/Settings.md",
-    "_site/docs/AssetBookmarks/Untitled.md",
-    "_site/docs/AssetBookmarks/Overview.md",
-    "_site/docs/AssetBookmarks/index.html",
-    "docs/LandmarkNavigation/Entities/index.md"
+    "_site/docs/AssetBookmarks/Settings.md"
   ]
 }
