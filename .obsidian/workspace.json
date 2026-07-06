@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4c6554d1884387f6",
+        "id": "d627aac20267f1e4",
         "type": "tabs",
         "children": [
           {
-            "id": "e3a611a1409dfa15",
+            "id": "e502514b1885bf53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/TimeClock/index.md",
+                "file": "docs/LambdaWebBrowser/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "index"
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -169,28 +169,30 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "e3a611a1409dfa15",
+  "active": "e502514b1885bf53",
   "lastOpenFiles": [
     "docs/TimeClock/Changelog.md",
+    "docs/TimeClock/index.md",
+    "docs/PythonBrowser/Changelog.md",
+    "docs/PythonBrowser/index.md",
+    "docs/LandmarkNavigation/Changelog.md",
+    "docs/LandmarkNavigation/Overview.md",
+    "docs/LandmarkNavigation/index.md",
+    "docs/AssetBookmarks/Changelog.md",
+    "docs/AssetBookmarks/FAQ & Troubleshooting.md",
+    "docs/FileSystemLibrary/index.md",
+    "docs/AssetBookmarks/index.md",
+    "docs/PythonBrowser/Overview.md",
     "_site/docs/TimeClock/Changelog.html",
     "_site/docs/TimeClock/Sans titre.html",
-    "docs/PythonBrowser/Changelog.md",
     "_site/docs/TimeClock/Sans titre.md",
-    "docs/TimeClock/index.md",
     "docs/PythonBrowser/CustomArguments.md",
-    "docs/LandmarkNavigation/Changelog.md",
     "_site/docs/PythonBrowser/Changelog.html",
-    "docs/AssetBookmarks/Changelog.md",
     "_site/docs/PythonBrowser/Changelog.md",
     "_site/docs/PythonBrowser/Untitled.md",
-    "docs/PythonBrowser/Overview.md",
     "docs/AssetBookmarks/Overview.md",
-    "docs/AssetBookmarks/index.md",
     "docs/PythonBrowser/Settings.md",
-    "docs/PythonBrowser/index.md",
     "docs/LambdaWebBrowser/index.md",
-    "docs/FileSystemLibrary/index.md",
-    "docs/LandmarkNavigation/index.md",
     "docs/AssetBookmarks/Settings.md",
     "docs/FileSystemLibrary/assets/filesystemlibrary_screenshot_bpexample.png",
     "docs/LambdaWebBrowser/assets/lanmbdawebbrowser_screenshot_bp.png",
@@ -199,7 +201,6 @@
     "docs/LandmarkNavigation/assets/LandmarkNavigation_BannerPromo_Blue.png",
     "_site/docs/AssetBookmarks/FAQ & Troubleshooting.html",
     "_site/docs/AssetBookmarks/Changelog.html",
-    "docs/AssetBookmarks/FAQ & Troubleshooting.md",
     "docs/LandmarkNavigation/FAQ & Troubleshooting.md",
     "docs/FileSystemLibrary/Functions.md",
     "_site/docs/AssetBookmarks/assets/AssetBookmarks_Logo_128x.png",
@@ -212,7 +213,6 @@
     "_site/docs/AssetBookmarks/assets",
     "docs/AssetBookmarks/assets",
     "docs/AssetBookmarks/Nouveau dossier",
-    "docs/LandmarkNavigation/Overview.md",
     "docs/LandmarkNavigation/Settings.md",
     "_site/docs/AssetBookmarks/Overview.html",
     "_site/docs/AssetBookmarks/Settings.md"

@@ -9,6 +9,11 @@ nav_order: "10"
 <br>
 
 <br>
+
+## Version 5.1 - 06/07/2026
+
+* Added UE 5.8 support
+* Small code tweaks
 ## Version 5 - 22/03/2026 
 
 * Replaced all Widget Blueprint interfaces by Slate equivalent

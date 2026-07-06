@@ -9,6 +9,11 @@ nav_order: "10"
 <br>
 
 <br>
+
+## Version 5.1 - 06/07/2026
+
+* Added UE5.8 support
+* Small code tweaks
 ## Version 5 - 20/11/2025
 
 * The Waypoint widget will now show an arrow indicating whether the waypoint is above or below the player. Can be toggled off with `bShowHeightArrow` in `WBP_LN_Waypoint`.
